@@ -1,11 +1,11 @@
-baseURL = "https://mohamissa.github.io/hamissablog/"
+baseURL = "https://mohamissa.github.io/hamissa-blog/"
 languageCode = "en-us"
 title = "Hamissa's Technial Blog"
 theme = "m10c"
 
 [params]
   author = "Mohammed Hamissa"
-  description = "a technical showcase| I hope you like it!!"
+  description = "a Technical Showcase| I hope you like it!!"
 
   [[params.social]]
     icon = "github"
